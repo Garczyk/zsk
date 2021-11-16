@@ -1,2 +1,3 @@
 <?php
-echo "<hr>zawartosc pliku:".__FILE__."<hr>"; ?>
+  echo "<hr>Zawartość pliku: ".__FILE__."<hr>";
+ ?>
